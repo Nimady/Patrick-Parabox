@@ -1,1 +1,25 @@
+Description de ma tâche :
 
+Ce projet consiste à implémenter une version du jeu Patrick's Parabox qui
+est un Sokoban récursif.
+Ma tâche était de réaliser les mécanismes de mouvement du jeu tout en
+implémentant des classes avec des attribues et des méthodes données dans la
+spécification du jeu.
+
+
+Cette tache prend en compte le fait de définir les mouvements de chaque
+objet et leur interaction avec les différents éléments.
+Réflexion sur ce qui aurait été fait différemment si le projet
+était à refaire :
+Si le projet était à refaire, la seule chose que j’aurais modifier c’est de
+changer ma tâche avec celle de l’interface graphique car cela m’intéresse
+énormément.
+
+
+Retour d’expérience personnel sur le projet :
+Ce travail m’a permis de développer mes connaissances en java et d'améliorée ma
+capacité a travaillé en groupe car c’est la première fois que je participe à un
+développement d’un jeu, sachant que j’ai trouvé beaucoup de difficultés au début,
+mais j’ai résolu ça en travaillant en groupe et j’ai eu énormément d’aide du chef du
+groupe ce qui m’a permis de me rendre compte de mes limite personnelle lors
+d'un travail demander une charge de travaille plus conséquence.
